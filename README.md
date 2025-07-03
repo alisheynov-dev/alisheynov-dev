@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>Hi, my name is Alish Huseynov!</h1>
+<h3>Full Stack Web Developer</h3>
+<h6>Technologies ? -> HTML // CSS // JS // JQUERY // SCSS // REACT // GSAP // GIT // GITHUB // LINUX // REACT // PHP // SQL </h6>
 
 <!--
 **alisheynov-dev/alisheynov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
