@@ -1,6 +1,6 @@
 # Hello there, I'm Ali 👋
 
-<img align="right" alt="coding.gif" style="border-radius:20px" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
+<img align="right" alt="coding.gif" style="border-radius:20px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFoMzVyZjJ2cTY4cm1hcTZ5YmdiaDFrM2o5a3FwcXI0ZTdiZHo0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="180" />
 
 I am a computer science professional passionate about writing code, solving problems, and building software. This personal repository is a collection of my projects, code, and collaborations in various areas of programming and software development.
 
@@ -49,7 +49,6 @@ I am a computer science professional passionate about writing code, solving prob
 
 <p
   <a href="mailto:alisheynov.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+   ### alisheynov.dev@gmail.com
 </p>
-  <a href="https://twitter.com/marco_cg24"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+  
