@@ -49,6 +49,7 @@ I am a computer science professional passionate about writing code, solving prob
 
 <p
   <a href="mailto:alisheynov.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-   ### alisheynov.dev@gmail.com
+   
 </p>
+<p>alisheynov.dev@gmail.com</p>
   
